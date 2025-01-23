@@ -279,7 +279,7 @@ If you would like to contribute to this project, feel free to fork the repositor
 
 For questions or further information:
 
-- **Name**: Shaun Mia
-- **Email**: shaunmia.cse@gmail.com
-- **LinkedIn**: [Shaun Mia](https://www.linkedin.com/in/shaun-mia/)
-- **GitHub**: [shaun-mia](https://github.com/shaun-mia)
+- **Name**: Durgesh Agrawal
+- **Email**: durgesh3103@gmail.com
+- **LinkedIn**: [Durgesh Agrawal](https://www.linkedin.com/in/durgesh-agrawal-4a3617139/)
+- **GitHub**: [Durgesh Agrawal](https://github.com/Dmaster007)
